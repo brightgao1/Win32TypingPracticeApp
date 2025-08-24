@@ -1,4 +1,4 @@
-### Win32TypingPracticeApp
+### Win32TypingPracticeApp - ONLY 94 KB .exe
 
   Vast majority of the code is in [BrightType1.1/BrightType1.1.cpp](https://github.com/brightgao1/Win32TypingPracticeApp/blob/main/BrightType1.1/BrightType1.1.cpp)
 
