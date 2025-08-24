@@ -1,6 +1,6 @@
 #### Win32TypingPracticeApp
 
-  Vast majority of the code is in [https://github.com/brightgao1/Win32TypingPracticeApp/blob/main/BrightType1.1/BrightType1.1.cpp](BrightType1.1/BrightType1.1.cpp)
+  Vast majority of the code is in [BrightType1.1/BrightType1.1.cpp](https://github.com/brightgao1/Win32TypingPracticeApp/blob/main/BrightType1.1/BrightType1.1.cpp)
 
   I made this project to learn Win32, hence why I essentially implemented BS_AUTORADIOBUTTON instead of using it, as well as a trie for searching fonts. Ik some of the stuff I did was overkill, note that it was just for learning purposes.
 
