@@ -4,7 +4,7 @@
 
   I made this project to learn Win32, hence why I essentially implemented BS_AUTORADIOBUTTON instead of using it, as well as a trie for searching fonts. Ik some of the stuff I did was overkill, note that it was just for learning purposes.
 
-  I programmed this in late 2024/early 2025. Unfortunately didn't have git installed at that time (and didn't use GH). **I do NOT add new features or work on this project anymore.**
+  I programmed this in late 2024/early 2025. Unfortunately didn't have git at that time (and didn't use GH). **I do NOT add new features or work on this project anymore.**
 
   In my app, you can go back to previous words while typing (accidental backspace at beginning of new word), and typing a space at the beginning of a new word will punish you, unlike popular typing sites like typeracer, monkeytype, etc... It's also much more efficient obviously, and runs smoothly on old computers.
 
