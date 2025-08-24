@@ -12,6 +12,8 @@
   Or u can just run the exe in x64/Release/BrightType1.1.exe, ensuring text folder (containing quotes.txt & fonts.txt) is in the same directory as exe.
 
   NOTE THAT GCC WILL NOT BE ABLE TO COMPILE THIS.
+
+  If u wanna use the MSVC via command line, u need to compile the .rc (using rc.exe) into .res (comipiled resource file), then link them using link.exe or /link option in cl.exe. I advise u to not do this painful process tho.
   
 ### Features
   Customizable by clicking the "Settings" top menu (nav bar). Choose from over 40 fonts, 3 themes, and ur desired font size & quote length.
