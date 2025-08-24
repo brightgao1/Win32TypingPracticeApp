@@ -23,5 +23,7 @@
   In my app, you can go back to previous words while typing (accidental backspace at beginning of new word), and typing a space at the beginning of a new word will punish you, unlike popular typing sites like typeracer, monkeytype, etc...
   
   It's much more efficient than typing sites obviously, and runs smoothly on old computers.
+
+  U can even remove quotes from text/quotes.txt and add whatever text u want for typing practice! Each quote must be on its own line though.
 ### Use However U Like
   Feel free to take any of the code for use or fork the project, idc. Just know that I'm not responsible for anything if somehow (I doubt it tho) anything here gets used for commercial purposes.
