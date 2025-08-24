@@ -12,9 +12,10 @@
   NOTE THAT GCC WILL NOT BE ABLE TO COMPILE THIS.
   
 ### Features
-  Customizable by clicking the "Settings" top menu (nav bar). Choose from over 40 fonts, 3 themes, and ur desired font size & text length.
+  Customizable by clicking the "Settings" top menu (nav bar). Choose from over 40 fonts, 3 themes, and ur desired font size & quote length.
 
-  In my app, you can go back to previous words while typing (accidental backspace at beginning of new word), and typing a space at the beginning of a new word will punish you, unlike popular typing sites like typeracer, monkeytype, etc... It's also much more efficient obviously, and runs smoothly on old computers.
-
-
+  In my app, you can go back to previous words while typing (accidental backspace at beginning of new word), and typing a space at the beginning of a new word will punish you, unlike popular typing sites like typeracer, monkeytype, etc...
+  
+  It's much more efficient than typing sites obviously, and runs smoothly on old computers.
+### Use However U Like
   Feel free to take any of the code for use or fork the project, idc. Just know that I'm not responsible for anything if somehow (I doubt it tho) anything here gets used for commercial purposes.
