@@ -9,7 +9,7 @@
   **I do NOT add new features or work on this project anymore.**
 ### Usage
   Just clone and open the Visual Studio solution (.sln) file, then compile. 
-  Or u can just run the exe in x64/Release/BrightType1.1.exe
+  Or u can just run the exe in x64/Release/BrightType1.1.exe, ensuring text folder (containing quotes.txt & fonts.txt) is in the same directory as exe.
 
   NOTE THAT GCC WILL NOT BE ABLE TO COMPILE THIS.
   
