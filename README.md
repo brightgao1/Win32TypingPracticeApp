@@ -16,7 +16,9 @@
   If u wanna use the MSVC via command line, u need to compile the .rc (using rc.exe) into .res (comipiled resource file), then link them using link.exe or /link option in cl.exe. I advise u to not do this painful process tho.
   
 ### Features
-  Customizable by clicking the "Settings" top menu (nav bar). Choose from over 40 fonts, 3 themes, and ur desired font size & quote length.
+  Customizable by clicking the "Settings / Preferences" top menu (nav bar). Choose from over 40 fonts, 3 themes, and ur desired font size & quote length.
+
+  Buttons on the bottom right to go to a new text (Esc) or the previous text (F1). When finished typing a text and the statistics are displayed, you can retry the text just typed (r) or new text (Esc).
 
   In my app, you can go back to previous words while typing (accidental backspace at beginning of new word), and typing a space at the beginning of a new word will punish you, unlike popular typing sites like typeracer, monkeytype, etc...
   
