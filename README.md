@@ -12,6 +12,8 @@
   NOTE THAT GCC WILL NOT BE ABLE TO COMPILE THIS.
   
 ### Features
+  Customizable by clicking the "Settings" top menu (nav bar). Choose from over 40 fonts, 3 themes, and ur desired font size.
+
   In my app, you can go back to previous words while typing (accidental backspace at beginning of new word), and typing a space at the beginning of a new word will punish you, unlike popular typing sites like typeracer, monkeytype, etc... It's also much more efficient obviously, and runs smoothly on old computers.
 
 
